@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+# Local render outputs.
+/out/
+/output/
+/outputs/
+/test-output*/
+/news23-test*/

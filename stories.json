@@ -1,0 +1,71 @@
+{
+  "masthead_title": "THE WORLD IN ONE IMAGE",
+  "date_line": "MONDAY 23 NOVEMBER 2026",
+  "lead_stories": [
+    {
+      "id": "cop31",
+      "icon": "climate",
+      "headline": "COP31 ENDS WITHOUT A DEAL",
+      "summary": "UN climate talks in Türkiye, the longest in history, collapse over fossil fuels; EU rejects the draft."
+    },
+    {
+      "id": "merkury",
+      "icon": "corvette",
+      "headline": "UKRAINE SINKS RUSSIAN CORVETTE",
+      "summary": "Sea drones sink the Merkury in Benghazi port, Libya."
+    },
+    {
+      "id": "dymer",
+      "icon": "flats",
+      "headline": "RUSSIAN STRIKE LEVELS FLATS NEAR KYIV",
+      "summary": "Apartment block in Dymer destroyed; at least 11 dead, 14 missing."
+    },
+    {
+      "id": "markets",
+      "icon": "markets",
+      "headline": "AI SELL-OFF RATTLES MARKETS",
+      "summary": "Nikkei falls 5.1% and the S&P 500 3.7% as tech shares slide."
+    },
+    {
+      "id": "hormuz",
+      "icon": "tanker",
+      "headline": "IRAN STRIKE HITS BAHRAIN",
+      "summary": "Iranian attack hits a civilian industrial site, injuring two; tanker tensions in Hormuz."
+    },
+    {
+      "id": "house",
+      "icon": "capitol",
+      "headline": "DEMOCRATS TAKE THE HOUSE",
+      "summary": "Largest majority since 1992: at least 258 seats after a recount."
+    },
+    {
+      "id": "banten",
+      "icon": "factory",
+      "headline": "FACTORY FIRE KILLS 24 IN BANTEN",
+      "summary": "Blaze at a candy factory in Indonesia; dozens still missing."
+    },
+    {
+      "id": "seoul",
+      "icon": "spychief",
+      "headline": "SEOUL NAMES FIRST WOMAN SPY CHIEF",
+      "summary": "Kang Kum-sil leads the NIS in a surprise reshuffle."
+    }
+  ],
+  "numbers_strip": [
+    "−5.1% NIKKEI",
+    "−3.7% S&P 500",
+    "258 HOUSE SEATS",
+    "24 DEAD IN BANTEN",
+    "11 DEAD NEAR KYIV"
+  ],
+  "briefs_heading": "AROUND THE WORLD IN BRIEF",
+  "briefs": [
+    "Eisenkot calls West Bank settler arson \"Jewish terrorism\"",
+    "Trump calls Putin \"my friend\" after Shenzhen summit with Xi",
+    "FBI most-wanted 'El Chapo Isidro' captured in Sinaloa",
+    "Bangladesh: ex-PM Hasina to be jailed if she returns",
+    "Drone attacks hit Khartoum, UN building damaged",
+    "Storm kills 5 in southern Brazil",
+    "Korea education minister quits over AI test rules"
+  ]
+}
